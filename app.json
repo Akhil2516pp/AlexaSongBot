@@ -1,20 +1,20 @@
 {
-    "name": "AlexaSongBot",
+    "name": "donbossSongBot",
     "description": "Grabs song from yt and sends it to telegram",
     "env": {
-        "API_ID": {
+        "API_ID": {3688380
             "description": "Get this value from my.telegram.org.",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {640eff83de0af1222422ec2204febf4c
             "description": "Get this value from my.telegram.org.",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {1706377982:AAEZxEpaCrSp2VUjs8nam0Z4YNrnYhDd350
             "description": "Get this value by making a bot from @BotFather.",
             "required": true
         },
-        "OWNER_ID": {
+        "OWNER_ID": {747397373
             "description": "Your telegram user id.",
             "required": true
         }
